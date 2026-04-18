@@ -70,11 +70,6 @@ base-front-2025/
 - Validate forms using React Hook Form.
 - Optimize data fetching with React Query.
 
-## Development Examples
-Here are some examples of using the main features in this project:
-- **Creating a Form**: [Link to Form Example]
-- **Fetching Data**: [Link to Data Fetch Example]
-
 ## Contributing
 Contributions are welcome! Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
