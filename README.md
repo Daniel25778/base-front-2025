@@ -1,7 +1,7 @@
 # README.md
 
 ## Overview
-Welcome to the project! This repository focuses on building responsive and scalable web applications using modern technologies tailored for today’s development needs.
+ This repository focuses on building responsive and scalable web applications using modern technologies tailored for today’s development needs.
 
 ## Features
 - Responsive Design
@@ -51,11 +51,13 @@ In the project directory, you can run:
 ```
 base-front-2025/
 ├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── redux/
-│   ├── styles/
-│   └── index.tsx
+│   ├── data/
+│   ├── domain/
+│   ├── infra/
+│   ├── main/
+│   ├── presentation/
+|   ├── store/
+|   ├── validation/schema/
 ├── public/
 ├── package.json
 └── README.md
